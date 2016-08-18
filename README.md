@@ -6,12 +6,14 @@ Design/Animation Resources
 ###### Resources to make for easier web-development
 
 ### [Three.js](http://threejs.org/)
+____
 An extremely powerful javascript engine for animations. Includes canvas, svg, webgl, and other tools.
 In terms of speed, canvas and svg are preferable, but this tool shines most in its ability to make opengl development very simplified. This is great if you want to use a built-in physics engine.
 ###### [css3d example](http://threejs.org/examples/#css3d_periodictable)
 ###### [canvas example](http://threejs.org/examples/#canvas_lines_sphere)
 ###### [webgl example](http://threejs.org/examples/#webgl_gpgpu_birds)
 ### [GreenSock Animation Platform (GSAP)](http://greensock.com/get-started-js#tweenmax)
+____
 Probably one of the fastest javascript animation platforms. It invokes graphics acceleration within
 the DOM elements in order to make the animations respond faster. This is used as a list of Tweens
 and Timelines, in which a Timeline can sequentially animation a group of Tween animations. Each
@@ -22,6 +24,7 @@ This has a clear benefit over other animation platforms in that it works in all 
 ###### [Cuberto example](http://cuberto.com/)
 ###### [SirinLabs example](https://www.sirinlabs.com/discover)
 ### [CSS3 3D](http://www.w3schools.com/css/css3_3dtransforms.asp)
+____
 Although most javascript animation platforms try to emulate the speed of CSS3 transforms,
 nothing can quite beat the original. Although sometimes a bit tricky to use for advanced
 animations, using primarily CSS3 transforms will allow for fast, mobile-friendly animations.
