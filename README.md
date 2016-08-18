@@ -44,6 +44,12 @@ Generally anything that Mozilla develops works very well with web/mobile.
 ____
 #### [Type.js](http://typejs.org/)
 A small javascript framework for animating text to make it look like it's being typed.
+____
+#### [Autodesk Forge](https://forge.autodesk.com/)
+This uses Three.js animations in order to display complex models in the web using Webgl.
+Animations stay fairly responsive on mobile are and designed to work with the object types
+made from Autodesk products, but the capability of the platform is pretty awesome. It can
+do anything from on-the-fly designing to new VR technologies.
 
 ## Design
 ###### A list of well-designed websites
