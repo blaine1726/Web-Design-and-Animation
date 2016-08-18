@@ -59,5 +59,7 @@ ____
 [Apple Music](http://www.apple.com/music/)
 
 [Code and Theory](http://www.codeandtheory.com/)
-
 * In particular [this](http://www.codeandtheory.com/why-we-make)
+
+[Bert](https://bert.house/en/)
+* Kind of weird, but yet strangely interesting and a great representation of their brand.
