@@ -8,9 +8,9 @@ Design/Animation Resources
 #### [Three.js](http://threejs.org/)
 An extremely powerful javascript engine for animations. Includes canvas, svg, webgl, and other tools.
 In terms of speed, canvas and svg are preferable, but this tool shines most in its ability to make opengl development very simplified. This is great if you want to use a built-in physics engine.
-###### [css3d example](http://threejs.org/examples/#css3d_periodictable)
-###### [canvas example](http://threejs.org/examples/#canvas_lines_sphere)
-###### [webgl example](http://threejs.org/examples/#webgl_gpgpu_birds)
+> ###### [css3d example](http://threejs.org/examples/#css3d_periodictable)
+> ###### [canvas example](http://threejs.org/examples/#canvas_lines_sphere)
+> ###### [webgl example](http://threejs.org/examples/#webgl_gpgpu_birds)
 ____
 #### [GreenSock Animation Platform (GSAP)](http://greensock.com/get-started-js#tweenmax)
 Probably one of the fastest javascript animation platforms. It invokes graphics acceleration within
